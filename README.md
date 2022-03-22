@@ -1,2 +1,2 @@
 # Firwl---Cysecor-
-Live URL:
+Live URL: https://denzel95.github.io/Firwl---Cysecor-/
